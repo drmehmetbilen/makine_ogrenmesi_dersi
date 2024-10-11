@@ -1,0 +1,303 @@
+Product,Sales_volume(kg),Brand,Price(TL),Price(TL/Sales_volume),Quality_Score,Delivery_Time,Fav_number,Comment_Count,Store
+glutensiz un,2.0,Sinangil,51.99,26.0,4.7,5.0,1250,0.0,GetirBüyük
+glutensiz un,10.0,Ingromix,248.0,24.8,4.0,4.9,5,2.0,PTTAVM
+glutensiz un,0.5,Sinangil,53.87,107.74,4.6,5.0,2100,15.0,Migros
+glutensiz un,5.0,Sinangil,479.9,95.98,4.7,4.2,0,0.0,Bezevim
+glutensiz un,5.0,Ingromix,487.0,97.4,4.2,4.7,110,5.0,PTTAVM
+glutensiz un,15.0,Sinangil,1399.9,93.33,4.6,3.2,5,1.0,Bezevim
+glutensiz un,5.0,Ingromix,510.4,102.08,4.4,3.0,135,102.0,n11
+glutensiz un,5.0,Dola,696.0,139.2,3.8,4.5,2,0.0,PTTAVM
+glutensiz un,1.0,İpek Değirmen,99.9,99.9,4.5,4.8,1500,22.0,TRENDYOL
+glutensiz un,5.0,Ingromix,567.0,113.4,4.6,2.6,0,0.0,PTTAVM
+glutensiz un,5.0,İpek Değirmen,124.9,24.98,4.1,2.5,3500,2.0,TRENDYOL
+glutensiz un,5.0,Ingromix,515.0,103.0,4.6,2.0,0,0.0,PTTAVM
+glutensiz un,2.0,TamTarım,336.0,168.0,4.7,5.0,4654,139.0,TRENDYOL
+glutensiz un,2.0,SCHAR,199.0,99.5,4.8,4.9,1401,181.0,TRENDYOL
+glutensiz un,2.0,TamTarım,725.0,362.5,4.7,5.0,189,13.0,TRENDYOL
+glutensiz un,1.0,Sinangil,151.0,151.0,4.8,4.7,40,24.0,n11
+glutensiz un,1.0,Glutensiz Fabrika,117.0,117.0,4.7,5.0,25,6.0,TRENDYOL
+glutensiz un,1.0,İpek Değirmen,169.9,169.9,4.6,4.9,4500,371.0,TRENDYOL
+un,10.0,NORA UN,315.99,31.6,4.8,5.0,3400,4.0,TRENDYOL
+un,10.0,NORA UN,578.99,57.9,4.8,5.0,135,38.0,TRENDYOL
+un,5.0,Söke,167.4,33.48,4.5,5.0,1244,397.0,TRENDYOL
+un,25.0,Hatap,758.75,30.35,3.7,3.1,123,12.0,PTTAVM
+un,5.0,Söke,109.9,21.98,5.0,5.0,0,0.0,Carrefour
+un,3.0,NORA UN,188.99,63.0,4.6,4.0,12,1.0,TRENDYOL
+un,25.0,Hekimoğlu,800.0,32.0,4.7,3.5,5,0.0,TRENDYOL
+un,1.0,Aktarcınız,91.91,91.91,3.5,3.0,0,0.0,PTTAVM
+un,6.0,Sinangil,377.2,62.87,3.9,3.6,0,0.0,PTTAVM
+un,5.0,Hekimoğlu,116.9,23.38,4.9,2.5,0,5.0,Carrefour
+un,6.0,NORA UN,312.99,52.16,4.6,3.2,560,34.0,TRENDYOL
+un,0.5,Söke,18.2,36.4,5.0,4.0,999,304.0,Carrefour
+un,5.0,Eriş Un,62.9,12.58,5.0,3.0,12,5.0,Migros Toptan
+un,5.0,Oba,114.9,22.98,5.0,4.0,49,12.0,PTTAVM
+un,5.0,Migros,69.5,13.9,3.4,3.5,0,12.0,Migros Toptan
+un,10.0,Hatap,387.75,38.77,4.0,4.2,0,0.0,PTTAVM
+un,10.0,Tellioğlu,258.5,25.85,4.1,3.0,0,0.0,Tellioğlu
+un,5.0,Sinangil,82.5,16.5,5.0,3.2,2345,220.0,Şok
+un,5.0,Hekimoğlu UN,229.0,45.8,4.8,3.5,0,181.0,TRENDYOL
+un,5.0,Eriş,66.9,13.38,5.0,2.0,340,5.0,A101 Hiper
+un,5.0,Hatap,192.0,38.4,4.6,3.0,500,123.0,n11
+un,10.0,Ova,350.0,35.0,4.5,4.2,0,34.0,n11
+un,25.0,Hatap,837.77,33.51,3.0,2.0,0,245.0,PTTAVM
+un,5.0,Hekimoğlu UN,239.0,47.8,4.8,2.5,0,41.0,TRENDYOL
+un,5.0,Tellioğlu,289.0,57.8,4.8,3.7,0,275.0,TRENDYOL
+un,10.0,NORA UN,315.99,31.6,4.8,2.4,0,57.0,TRENDYOL
+un,1.0,İpek Değirmen,124.9,124.9,4.5,4.0,0,309.0,TRENDYOL
+un,25.0,UZUNSAN,810.0,32.4,4.5,4.8,0,33.0,TRENDYOL
+un,5.0,Oba Makarna,109.9,21.98,4.6,2.1,330,25.0,TRENDYOL
+un,5.0,İngro,765.0,153.0,2.0,3.9,23,0.0,Amazon
+un,5.0,Sinangil,145.31,29.06,4.7,4.2,0,0.0,TRENDYOL
+un,25.0,Hekimoğlu UN,825.0,33.0,4.9,4.6,0,0.0,TRENDYOL
+un,10.0,NORA UN,341.99,34.2,4.5,2.1,463,0.0,TRENDYOL
+un,3.0,Tellioğlu,225.0,75.0,4.7,3.9,350,28.0,TRENDYOL
+un,25.0,Ova Un,825.0,33.0,5.0,4.5,337,10.0,TRENDYOL
+un,2.0,Söke,40.44,20.22,4.0,4.0,152,5.0,Migros Toptan
+un,0.08,OG Natural,183.0,2287.5,4.6,3.5,389,5.0,TRENDYOL
+un,1.0,Söke,24.9,24.9,5.0,4.2,21,2.0,ŞOK
+un,10.0,Söke,295.95,29.59,5.0,3.0,309,3.0,PttAVM
+un,4.0,Söke,231.08,57.77,5.0,4.8,249,5.0,Idefix
+un,5.0,Söke,109.9,21.98,5.0,4.2,183,0.0,Carrefour
+un,15.0,Söke,453.09,30.21,5.0,3.4,417,0.0,PttAVM
+un,10.0,Söke,304.68,30.47,5.0,2.0,300,0.0,PttAVM
+un,30.0,Söke,833.24,27.77,5.0,4.2,402,0.0,Idefix
+un,20.0,Söke,592.77,29.64,5.0,4.0,130,5.0,PttAVM
+un,20.0,Söke,729.0,36.45,4.9,4.6,489,34.0,n11
+un,15.0,Söke,539.0,35.93,5.0,1.6,200,23.0,Amazon
+un,10.0,Söke,399.0,39.9,5.0,3.0,106,3.0,n11
+un,1.0,Söke,36.99,36.99,4.9,2.0,265,2.0,GetirBüyük
+un,6.0,Söke,208.65,34.77,5.0,1.8,186,3.0,PttAVM
+un,1.0,Söke,24.9,24.9,5.0,1.9,7,0.0,Carrefour
+un,1.0,Söke,46.99,46.99,5.0,2.0,414,0.0,Şok
+un,1.0,KARA KILÇIK ADANA,136.0,136.0,4.7,2.5,209,20.0,TRENDYOL
+un,1.0,İpek Değirmen,114.9,114.9,4.8,4.0,145,314.0,TRENDYOL
+un,2.0,Efsane,34.5,17.25,4.2,5.0,292,45.0,BİM
+organik un,0.3,Değirmenden,115.0,383.33,5.0,5.0,24,12.0,TRENDYOL
+organik un,2.0,Söke,84.95,42.48,5.0,4.0,266,45.0,Migros
+organik un,1.0,Makarna Lütfen,239.91,239.91,4.8,1.0,262,145.27509293680296,TRENDYOL
+organik un,0.8,OG Natural,185.0,231.25,4.8,3.0,221,145.27509293680296,TRENDYOL
+organik un,1.0,Soul Kitchen,122.68,122.68,4.8,2.0,300,50.0,TRENDYOL
+organik un,1.0,Makarna Lütfen,239.91,239.91,4.8,4.0,0,0.0,TRENDYOL
+organik un,5.0,Değirmenden,387.0,77.4,4.9,5.0,0,0.0,TRENDYOL
+organik un,2.0,Makarna Lütfen,214.91,107.45,4.7,3.0,1200,0.0,TRENDYOL
+organik un,0.5,Soul Kitchen,153.3,306.6,4.7,2.0,234,0.0,TRENDYOL
+organik un,1.0,Değirmenden,290.0,290.0,4.9,4.0,223,36.0,TRENDYOL
+organik un,0.25,Essen,90.28,361.12,4.7,5.0,270,121.0,TRENDYOL
+organik un,0.32,Wefood,155.94,487.31,4.8,2.0,419,223.0,TRENDYOL
+organik un,1.0,İpek Değirmen,199.9,199.9,4.6,1.0,199,217.0,TRENDYOL
+organik un,1.0,OG Natural,189.0,189.0,4.8,2.0,420,1050.0,TRENDYOL
+organik un,0.3,OG Natural,124.9,416.33,4.8,3.0,282,2641.0,TRENDYOL
+organik un,0.32,Lotus Natura,161.5,504.69,4.8,3.0,129,25.0,TRENDYOL
+organik un,0.5,Soul Kitchen,123.22,246.44,4.8,4.0,356,344.0,TRENDYOL
+organik un,0.25,Makarna Lütfen,214.91,859.64,4.7,1.0,57,2287.0,TRENDYOL
+organik un,0.5,BIF Mochi,108.2,216.4,4.7,2.0,4,289.0,TRENDYOL
+organik un,0.5,Wefood,101.94,203.88,4.7,3.0,267,662.0,TRENDYOL
+mor un,5.0,İpek Değirmen,199.9,39.98,4.7,5.0,115,305.0,TRENDYOL
+mor un,0.5,Söke,46.95,93.9,5.0,4.0,149,0.0,Migros
+mor un,6.0,Kappadokia,489.99,81.67,4.9,2.0,244,0.0,n11
+mor un,3.0,Söke,425.0,141.67,4.9,5.0,238,0.0,PttAVM
+mor un,25.0,Özkaşıkçı,710.71,28.43,4.1,1.0,61,0.0,PttAVM
+mor un,1.0,Sinangil,62.9,62.9,4.0,2.0,272,0.0,Carrefour
+mor un,6.0,Kappadokia,385.87,64.31,4.7,4.0,0,0.0,PttAVM
+mor un,0.5,Devrekani,179.0,358.0,5.0,2.0,135,5.0,Amazon
+mor un,1.0,Kappadokia,105.38,105.38,3.0,3.0,0,0.0,PttAVM
+mor un,10.0,NORA UN,892.99,89.3,5.0,2.0,4,0.0,TRENDYOL
+yumurta,30.0,Yiltav,79.9,2.66,2.4,2.0,0,0.0,Kooperatif
+yumurta,30.0,Raya,226.9,7.56,3.0,2.0,0,0.0,Exporigin
+yumurta,30.0,Kozlu,95.0,3.17,2.0,4.0,0,0.0,Kooperatif
+yumurta,30.0,Kumbasar,141.4,4.71,2.5,2.0,0,0.0,Carrefour
+yumurta,30.0,Türem,125.0,4.17,4.0,3.0,0,0.0,Kooperatif
+yumurta,30.0,Kozlu Yeniana,125.0,4.17,3.0,4.0,0,0.0,Kooperatif
+yumurta,30.0,Abalı Çifiği,125.0,4.17,3.0,1.0,0,0.0,Şok
+yumurta,30.0,CP,124.95,4.17,5.0,3.0,0,0.0,GetirBüyük
+yumurta,30.0,Carrefour,109.0,3.63,2.4,4.0,5,5.0,Carrefour
+yumurta,30.0,Altıntaş,99.9,3.33,3.0,2.0,0,0.0,Migros
+yumurta,30.0,Bili Bili,179.78,5.99,2.0,4.0,0,0.0,PttAVM
+yumurta,30.0,Dedefarm,114.85,3.83,2.5,3.0,0,0.0,Carrefour
+yumurta,30.0,Seltav,125.0,4.17,4.0,2.0,0,5.0,Kooperatif
+yumurta,30.0,Yiltav,125.0,4.17,3.0,4.0,0,0.0,Kooperatif
+yumurta,30.0,Kumbasar,118.7,3.96,4.5,2.0,6,0.0,Carrefour
+yumurta,30.0,Freelife,103.45,3.45,4.6,5.0,6,45.0,Carrefour
+yumurta,30.0,Muubaş,131.95,4.4,2.0,2.0,9,0.0,Migros
+yumurta,30.0,Bilken,153.95,5.13,4.7,4.0,8,0.0,Migros
+yumurta,30.0,Bilken,125.0,4.17,4.9,2.0,4,0.0,Migros
+yumurta,30.0,Gires,125.0,4.17,4.5,4.0,1,23.0,Migros
+yumurta,30.0,Yiltav,79.9,2.66,4.7,2.0,7,0.0,Kooperatif
+yumurta,30.0,Carrefour,109.0,3.63,5.0,4.0,9,0.0,Carrefour
+yumurta,30.0,Kozlu,95.0,3.17,4.0,3.0,5,0.0,Kooperatif
+yumurta,30.0,Kumbasar,141.4,4.71,4.6,3.0,2,0.0,Carrefour
+yumurta,30.0,Freelife,103.45,3.45,5.0,3.0,10,0.0,Carrefour
+yumurta,30.0,Türem,125.0,4.17,3.0,2.0,8,0.0,Kooperatif
+yumurta,30.0,Kozlu,125.0,4.17,2.0,4.0,9,0.0,Kooperatif
+yumurta,10.0,Yumtat,39.75,3.98,3.0,2.0,8,0.0,Hakmar Express
+yumurta,10.0,Dede Farm,51.99,5.2,5.0,3.0,336,0.0,Carrefour
+yumurta,10.0,Pure,102.3,10.23,3.0,2.0,634,0.0,GetirBüyük
+yumurta,10.0,CP,75.3,7.53,4.0,2.0,18,0.0,GetirBüyük
+yumurta,10.0,Aybar,75.0,7.5,1.0,2.0,477,0.0,Kooperatif
+yumurta,10.0,Sade,88.45,8.85,3.0,4.0,781,0.0,Carrefour
+yumurta,10.0,Kumbasar,61.95,6.2,4.0,2.0,169,0.0,Carrefour
+yumurta,10.0,Carrefour,59.9,5.99,4.0,3.0,178,0.0,Carrefour
+yumurta,10.0,Bornova,66.0,6.6,3.8,2.0,792,0.0,Carrefour
+yumurta,10.0,Tkk,65.0,6.5,3.0,4.0,393,0.0,Kooperatif
+yumurta,10.0,Tkk,59.0,5.9,4.0,2.0,43,0.0,Kooperatif
+yumurta,10.0,Varda,62.0,6.2,5.0,3.0,329,0.0,Kooperatif
+yumurta,15.0,CP,72.5,4.83,5.0,2.0,900,0.0,GetirBüyük
+yumurta,15.0,Seltav,72.5,4.83,1.0,2.0,443,0.0,Kooperatif
+yumurta,15.0,Güres,72.5,4.83,3.0,2.0,17,0.0,Migros
+yumurta,15.0,Coşkun Organik,112.95,7.53,5.0,4.0,873,0.0,Migros
+yumurta,15.0,Ali Babanın,112.9,7.53,5.0,2.0,570,0.0,Carrefour
+yumurta,15.0,Bornova Çiçekliköy,96.35,6.42,4.0,3.0,715,0.0,Carrefour
+yumurta,15.0,Nurtav,72.5,4.83,4.0,2.0,227,0.0,Kooperatif
+yumurta,15.0,Herögün,72.5,4.83,2.0,4.0,240,0.0,Kooperatif
+yumurta,15.0,Yiltav,72.5,4.83,4.0,2.0,0,0.0,Kooperatif
+yumurta,15.0,Kozlu,72.5,4.83,5.0,3.0,0,0.0,Kooperatif
+yumurta,15.0,Yumtat,62.0,4.13,3.0,2.0,0,0.0,Hakmar
+yumurta,15.0,Carrefour,59.5,3.97,3.0,2.0,0,0.0,Carrefour
+yumurta,15.0,Hasanbey Çifiği,146.25,9.75,4.0,2.0,260,46.0,TRENDYOL
+yumurta,15.0,Bili Bili,59.5,3.97,5.0,4.0,742,6.0,BİM
+ayçiçek yağı,5.0,TMO,195.0,39.0,4.9,2.0,580,27.0,Kooperatif
+ayçiçek yağı,5.0,Bizce,159.0,31.8,3.5,3.0,378,35.0,A101
+ayçiçek yağı,5.0,Yudum,224.9,44.98,4.0,4.0,97,44.0,ŞOK
+ayçiçek yağı,18.0,Biryağ,989.0,54.94,3.0,5.0,53,0.0,Migros Toptan
+ayçiçek yağı,18.0,Yudum,849.0,47.17,4.0,3.0,158,22.0,A101
+ayçiçek yağı,5.0,Biryağ,209.3,41.86,3.8,5.0,3,40.0,Carrefour
+ayçiçek yağı,5.0,Biryağ,176.9,35.38,2.0,4.0,863,21.0,Carrefour
+ayçiçek yağı,5.0,Sırma,184.9,36.98,3.0,2.0,22,26.0,Carrefour
+ayçiçek yağı,5.0,Tarım Kredi,247.52,49.5,4.0,3.0,101,49.0,PTT AVM
+ayçiçek yağı,5.0,Komili,235.0,47.0,3.0,5.0,935,30.0,Carrefour
+ayçiçek yağı,18.0,Migros,750.0,41.67,2.7,5.0,210,50.0,Migros
+ayçiçek yağı,5.0,Vera,209.0,41.8,3.7,4.0,704,17.0,A101
+ayçiçek yağı,10.0,Biryağ,590.17,59.02,5.0,3.0,332,23.0,n11
+ayçiçek yağı,5.0,Kristal,363.0,72.6,5.0,5.0,69,23.0,n11
+ayçiçek yağı,8.0,Biryağ,589.9,73.74,5.0,4.0,677,5.0,n11
+ayçiçek yağı,2.0,Biryağ,197.9,98.95,5.0,4.0,2,21.0,n11
+ayçiçek yağı,5.0,Orkide,2615.0,523.0,5.0,5.0,971,45.0,n11
+ayçiçek yağı,2.0,Kristal,159.0,79.5,5.0,5.0,257,34.0,n11
+ayçiçek yağı,5.0,Biryağ,369.21,73.84,4.7,4.0,249,15.0,n11
+ayçiçek yağı,10.0,Yudum,950.0,95.0,4.8,3.0,930,8.0,n11
+ayçiçek yağı,18.0,Carrefour,982.5,54.58,4.0,5.0,403,22.0,Carrefour
+ayçiçek yağı,4.0,Abalı,139.0,34.75,5.0,4.0,304,6.0,A101
+ayçiçek yağı,5.0,Karam,159.0,31.8,4.8,4.0,7,3.0,A101
+ayçiçek yağı,5.0,Carrefour,249.0,49.8,3.0,2.0,714,13.0,Carrefour
+ayçiçek yağı,5.0,Abalı,199.96,39.99,4.0,5.0,539,25.0,Migros
+ayçiçek yağı,5.0,Emek,238.95,47.79,5.0,3.0,16,39.0,Migros
+ayçiçek yağı,5.0,Karam,175.0,35.0,3.0,5.0,304,40.0,A101
+ayçiçek yağı,5.0,Olin,424.14,84.83,5.0,3.0,279,14.0,PttAVM
+ayçiçek yağı,5.0,Torku,229.0,45.8,5.0,5.0,686,46.0,A101
+ayçiçek yağı,5.0,Safya,189.0,37.8,5.0,3.0,805,57.0,A101
+ayçiçek yağı,5.0,Orkide,211.16,42.23,4.0,3.0,366,53.0,Migros
+ayçiçek yağı,4.0,Biryağ,224.95,56.24,3.0,4.0,733,26.0,GetirBüyük
+ayçiçek yağı,5.0,Orkide,2615.0,523.0,4.2,5.0,507,70.0,n11
+ayçiçek yağı,2.0,Kristal,159.0,79.5,5.0,1.0,1009,70.0,n11
+ayçiçek yağı,5.0,Biryağ,369.21,73.84,4.6,5.0,1717,63.0,n11
+ayçiçek yağı,10.0,Yudum,950.0,95.0,4.8,5.0,527,34.0,n11
+ayçiçek yağı,4.0,Kırlangıç,349.0,87.25,4.7,3.0,629,35.0,n11
+ayçiçek yağı,20.0,Olin,1639.0,81.95,4.5,5.0,635,41.0,n11
+ayçiçek yağı,20.0,Yudum,1899.9,95.0,4.8,2.0,818,47.0,n11
+ayçiçek yağı,2.0,Orkide,185.0,92.5,4.0,4.0,396,61.0,n11
+ayçiçek yağı,5.0,Torku,229.0,45.8,5.0,5.0,1122,66.0,A101 
+ayçiçek yağı,5.0,Safya,189.0,37.8,4.0,5.0,1516,12.0,A101
+ayçiçek yağı,5.0,Orkide,211.16,42.23,4.0,2.0,1011,2.0,Migros
+ayçiçek yağı,4.0,Biryağ,224.95,56.24,3.0,5.0,1111,50.0,GetirBüyük 
+ayçiçek yağı,5.0,Yudum,299.95,59.99,4.5,5.0,986,70.0,GetirBüyük 
+ayçiçek yağı,18.0,Orkide,949.9,52.77,4.1,5.0,67,7.0,Migros
+ayçiçek yağı,4.0,Yudum,149.9,37.48,4.0,1.0,434,38.0,Şok
+ayçiçek yağı,5.0,Kırlangıç,211.96,42.39,4.2,4.0,1566,3.0,Migros 
+ayçiçek yağı,18.0,Dare,860.0,47.78,3.9,3.0,1020,5.0,Migros Toptan 
+ayçiçek yağı,18.0,Trakyayağ,1389.0,77.17,2.9,4.0,1250,36.0,CarrefourSA 
+ayçiçek yağı,3.0,Yudum,149.9,49.97,3.6,1.0,1956,7.0,CarrefourSA 
+ayçiçek yağı,18.0,Tarım Kredi,970.0,53.89,5.0,2.0,194,20.0,Kooperatif 
+toz şeker,1.0,Hanzade,49.0,49.0,2.4,5.0,648,59.0,ebitkisel 
+toz şeker,1.0,Bal Küpü,41.95,41.95,3.0,3.0,1579,44.0,CarrefourSA 
+toz şeker,1.0,Naturdan,399.9,399.9,3.0,2.0,1712,57.0,n11 
+toz şeker,1.0,Torku,42.5,42.5,4.0,1.0,801,37.0,A101 
+toz şeker,1.0,"Dr, Gusto",104.76,104.76,2.3,3.0,1701,4.0,PttAVM 
+toz şeker,1.0,Gaziantep Pazarı,88.23,88.23,4.0,2.0,710,27.0,PttAVM 
+toz şeker,1.0,Topçuoğlu,82.9,82.9,5.0,1.0,1477,5.0,n11 
+toz şeker,1.0,Mgs,363.19,363.19,4.0,5.0,802,3.0,Idefix 
+toz şeker,2.0,Yazar,487.6,243.8,5.0,1.0,1316,14.0,n11 
+toz şeker,1.0,Yazar,89.25,89.25,3.0,2.0,1526,18.0,PttAVM 
+toz şeker,1.0,Aktar,462.4,462.4,4.0,5.0,1544,34.0,n11 
+toz şeker,1.0,Tarım Kredi,103.88,103.88,5.0,4.0,716,46.0,Amazon 
+toz şeker,1.0,Tito,1677.38,1677.38,4.0,4.0,1148,37.0,Amazon
+toz şeker,1.0,Tito,1677.38,1677.38,4.0,3.0,1576,26.0,Amazon
+toz şeker,1.0,Yazar,266.17,266.17,5.0,3.0,1235,8.0,PttAVM
+toz şeker,1.0,Doğuş,42.5,42.5,5.0,1.0,642,16.0,A101
+toz şeker,1.0,Balküpü,160.75,160.75,3.0,3.0,1206,58.0,PttAVM 
+toz şeker,1.0,Albeyaz,42.5,42.5,4.0,5.0,1172,48.0,A101
+toz şeker,1.0,Tito,1677.38,1677.38,5.0,2.0,883,1.0,Amazon
+toz şeker,1.0,Bor,23.9,23.9,4.0,4.0,1295,26.0,CarrefourSA 
+toz şeker,6.0,Yazar,919.6,153.27,4.0,2.0,368,3.0,PttAVM 
+toz şeker,1.0,Başak,42.7,42.7,5.0,2.0,572,44.0,Listensi
+toz şeker,1.0,Tatküpü,30.9,30.9,5.0,4.0,670,8.0,CarrefourSA 
+toz şeker,1.0,Irmak,26.9,26.9,3.0,2.0,165,61.0,CarrefourSA 
+toz şeker,6.0,Yazar,919.6,153.27,4.0,3.0,905,64.0,PttAVM
+toz şeker,1.0,Başak,42.7,42.7,5.0,1.0,710,42.0,Listensi
+toz şeker,1.0,Tatküpü,30.9,30.9,4.0,2.0,1591,2.0,CarrefourSA 
+toz şeker,1.0,Irmak,26.9,26.9,4.0,4.0,108,26.0,CarrefourSA 
+toz şeker,1.0,Nar,39.95,39.95,5.0,4.0,1468,59.0,Migros
+toz şeker,1.0,Migros,36.5,36.5,3.0,1.0,485,21.0,Migros
+toz şeker,1.0,Aktar Store,312.8,312.8,2.0,2.0,332,22.0,n11
+toz şeker,1.0,Tito,1677.38,1677.38,3.0,2.0,254,28.0,Amazon
+toz şeker,1.0,"Dr, Gusto",92.5,92.5,4.6,4.0,243,2447.0,TRENDYOL
+toz şeker,1.0,Irmak,69.0,69.0,4.8,4.0,10,0.0,TRENDYOL
+toz şeker,1.0,Bal Küpü,74.95,74.95,4.7,3.0,134,602.0,TRENDYOL
+toz şeker,1.0,Hanzade Bitkisel,179.0,179.0,4.7,5.0,1226,945.0,TRENDYOL
+toz şeker,1.0,"Dr, Gusto",99.0,99.0,5.0,2.0,5,0.0,TRENDYOL
+toz şeker,1.0,Doğal Hayat,295.0,295.0,5.0,2.0,95,104.0,TRENDYOL
+toz şeker,1.0,Payitaht Hurma,440.0,440.0,4.5,4.0,10,163.0,TRENDYOL
+toz şeker,1.0,Organikmarketten,105.0,105.0,5.0,2.0,1450,203.0,TRENDYOL
+toz şeker,6.0,Yazar,267.09,44.51,5.0,3.0,6,0.0,n11 
+toz şeker,1.0,Topçuoğlu,82.9,82.9,4.7,1.0,2668,23.0,n11 
+toz şeker,1.0,Balküpü,84.0,84.0,4.6,1.0,2615,125.0,n11 
+toz şeker,5.0,Balküpü,325.0,65.0,4.5,1.0,1647,0.0,n11 
+toz şeker,12.0,Balküpü,699.0,58.25,5.0,2.0,2446,145.27509293680296,n11 
+toz şeker,3.0,Balküpü,199.0,66.33,4.7,2.0,1334,145.27509293680296,n11 
+toz şeker,1.0,Hanzade Bitkisel,179.0,179.0,5.0,4.0,3649,8.0,n11 
+toz şeker,12.0,Yazar,525.2,43.77,3.0,2.0,621,145.27509293680296,n11 
+toz şeker,5.0,Şafak,165.0,33.0,4.0,3.0,2149,145.27509293680296,BİM
+çay,3.0,Lipton,479.0,159.67,4.8,3.0,10300,1278.0,TRENDYOL
+çay,1.0,Çaykur,220.0,220.0,4.8,1.0,23100,2818.0,TRENDYOL
+çay,1.0,LAZiKA,419.0,419.0,5.0,2.0,0,3.0,TRENDYOL
+çay,10.0,Çaykur,1800.0,180.0,4.8,4.0,12000,6048.0,TRENDYOL
+çay,5.0,Çaykur,925.0,185.0,4.8,4.0,26200,7888.0,TRENDYOL
+çay,1.0,Pınar Ergül,649.0,649.0,4.7,2.0,1734,34.0,TRENDYOL
+çay,5.0,Çaykur,909.0,181.8,4.7,4.0,979,75.0,TRENDYOL
+çay,3.0,Lipton,490.0,163.33,4.8,4.0,5979,750.0,TRENDYOL
+çay,1.0,Berk,96.5,96.5,4.5,4.0,4896,145.27509293680296,BİM
+çay,1.0,Çaykur,139.9,139.9,5.0,3.0,2359,145.27509293680296,BİM
+çay,1.0,Lipton,119.9,119.9,5.0,1.0,3861,145.27509293680296,BİM
+çay,1.0,Berk,94.9,94.9,4.9,3.0,4736,145.27509293680296,BİM
+çay,1.0,Doğuş,129.9,129.9,4.9,1.0,1648,145.27509293680296,BİM
+çay,1.0,Ofçay,104.9,104.9,4.9,5.0,4477,145.27509293680296,BİM
+çay,0.5,Çaykur,74.9,149.8,4.9,1.0,2557,145.27509293680296,BİM
+çay,1.0,Çaykur,134.9,134.9,5.0,4.0,4586,145.27509293680296,BİM
+çay,1.0,Berk,94.9,94.9,4.0,1.0,3990,145.27509293680296,BİM
+çay,0.5,Berk,54.9,109.8,4.6,2.0,3362,145.27509293680296,BİM
+çay,0.5,Berk,54.9,109.8,4.7,5.0,4157,145.27509293680296,BİM
+çay,0.5,Berk,49.9,99.8,4.2,4.0,2924,145.27509293680296,BİM
+çay,1.0,Berk,94.9,94.9,4.9,3.0,316,145.27509293680296,BİM
+çay,1.0,Çaykur,191.35,191.35,5.0,2.0,885,347.0,Migros
+çay,1.0,Çaykur,134.56,134.56,5.0,4.0,4684,145.27509293680296,PttAVM
+çay,1.0,Lipton,169.33,169.33,3.0,2.0,2608,0.0,Amazon
+çay,1.0,Çaykur,189.9,189.9,3.6,5.0,4749,145.27509293680296,Pazarama
+çay,1.0,Lipton,144.9,144.9,3.6,2.0,589,145.27509293680296,Pazarama
+çay,1.0,Doğuş,167.5,167.5,4.0,2.0,4503,145.27509293680296,Listensi
+çay,1.0,Doğadan,73.5,73.5,4.0,2.0,1404,145.27509293680296,Exporgin
+çay,1.0,Ofçay,124.9,124.9,5.0,1.0,4661,12.0,Carrefour
+çay,1.0,Lipton,189.0,189.0,5.0,1.0,283,145.27509293680296,Migros
+çay,1.0,Tirebolu,144.32,144.32,5.0,5.0,3673,145.27509293680296,Smallman
+çay,1.0,Alice Suntat,999.0,999.0,2.5,5.0,557,100.0,n11
+çay,1.0,Mevlana,675.0,675.0,5.0,4.0,1668,145.27509293680296,n11
+çay,1.0,Herdem,99.0,99.0,2.2,5.0,2987,145.27509293680296,Hakmar
+çay,1.0,Ofçay,599.9,599.9,3.6,1.0,1312,145.27509293680296,Pazarama
+çay,1.0,Yeşil İnci,290.0,290.0,4.0,2.0,4956,145.0,n11
+çay,1.0,Çaykur,182.16,182.16,3.0,2.0,4849,145.27509293680296,PttAVM
+çay,1.0,Karali,169.9,169.9,2.5,1.0,2787,145.27509293680296,Hoppibebe
+çay,1.0,Çaykur,162.5,162.5,5.0,5.0,2752,3.0,A101
+çay,1.0,Beta Tea,196.43,196.43,1.4,4.0,230,145.27509293680296,PttAVM
+çay,1.0,Çaykur,206.9,206.9,4.6,2.0,4325,25.0,Avansas
+çay,1.0,Lipton,130.45,130.45,4.6,2.0,2795,52.0,Carrefour
+çay,1.0,Doğuş,174.9,174.9,4.6,2.0,2761,55.0,Şok
+çay,1.0,Altın Başak,162.25,162.25,4.6,2.0,1587,58.0,PttAVM
+çay,1.0,Lipton,1412.96,78.5,4.6,1.0,2216,145.27509293680296,PttAVM
