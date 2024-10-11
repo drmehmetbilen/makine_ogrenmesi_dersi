@@ -164,4 +164,5 @@ data/
 
 .vscode/
 .venv
-
+grouped_market_data.csv
+market_cleaned.csv
