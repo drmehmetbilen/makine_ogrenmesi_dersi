@@ -1,5 +1,6 @@
 import pandas as pd
-from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
+
 
 class BasicClassification():
     def __init__(self):
@@ -16,7 +17,7 @@ class BasicClassification():
                         
         X.fillna(0, inplace=True)        
                 
-        self.model = SVC()
+        self.model = RandomForestClassifier()
         self.model.fit(X, y)
                 
         return self.model
